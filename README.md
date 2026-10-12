@@ -1,6 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Yams!</h1>
+<h1 align="center">Hi there 👋, I'm Yama</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yamastudyacc&style=flat-square&color=blue" alt="Profile Views" />
   <a href="https://github.com/yamastudyacc?tab=followers"><img src="https://img.shields.io/github/followers/yamastudyacc?style=flat-square&label=Followers&color=blue" alt="GitHub Followers" /></a>
 </p>
 
@@ -57,6 +56,6 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:emailanda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/usernameanda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yamastudyacc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/RifqiyamaPawanaHamdi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
