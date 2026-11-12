@@ -32,6 +32,15 @@
 
 ---
 
+### ⚡ EDA & PCB Design
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+</p>
+
+---
+
 ### 🛠️ Developer Tools & IDEs
 
 <p align="center">
