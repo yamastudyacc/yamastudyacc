@@ -1,12 +1,12 @@
-<h1 align="center">Hi there 👋, I'm Yama</h1>
+<h1 align="center">Hi there, I'm Yama</h1>
 <p align="center">
   <a href="https://github.com/yamastudyacc?tab=followers"><img src="https://img.shields.io/github/followers/yamastudyacc?style=flat-square&label=Followers&color=blue" alt="GitHub Followers" /></a>
 </p>
 
 <p align="center">
    Electrical Engineering student at <b>Universitas Gadjah Mada (UGM)</b>.<br>
-  👯 Passionate about building hardware/software systems and looking to collaborate on <b>Hackathon competitions</b>!<br>
-  ⚡ Specialized in: Embedded Systems, Edge AI, Power Electronics, & Hardware Development.
+   Passionate about building hardware/software systems and looking to collaborate on <b>Hackathon competitions</b>!<br>
+   Specialized in: Embedded Systems, Edge AI, Power Electronics, & Hardware Development.
 </p>
 
 ---
