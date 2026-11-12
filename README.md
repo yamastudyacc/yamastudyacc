@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yama</h1>
+<h1 align="center">Hi, I'm Yama</h1>
 <p align="center">
   <a href="https://github.com/yamastudyacc?tab=followers"><img src="https://img.shields.io/github/followers/yamastudyacc?style=flat-square&label=Followers&color=blue" alt="GitHub Followers" /></a>
 </p>
